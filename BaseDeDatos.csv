@@ -1,4 +1,4 @@
-temperature,humidity,ph,water availability,season,label
+temperatura,humedad,ph,disponibilidad_agua,estacion,tipo planta
 20.87974371,82.00274423,6.502985292,202.9355362,rainy,rice
 21.77046169,80.31964408,7.038096361,226.6555374,rainy,rice
 23.00445915,82.3207629,7.840207144,263.9642476,rainy,rice
